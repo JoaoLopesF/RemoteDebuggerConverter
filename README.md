@@ -96,6 +96,6 @@ You can use this converter in 3 modes:
 
 ## Releases
 
-### 0.1.0 - 2018-10-17
+### 0.1.0 - 2019-02-29
 
     - First beta
