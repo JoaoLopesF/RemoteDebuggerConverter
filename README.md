@@ -71,7 +71,7 @@ it help to keep updated.
 
 This runs in MacOsx, Linux and Windows (and other supported by Java).
 
-You can use this converter in 3 modes:
+You can use this converter in 2 modes:
 
 - Java project
 
@@ -89,10 +89,6 @@ You can use this converter in 3 modes:
 
   - Uncompress the Zip file,
   - And run the jar file
-
-- In SerialDebugApp (not needs Java runtime)
-
-  - Just click in "__Conv.__" button.
 
 ## Releases
 
