@@ -26,8 +26,8 @@ It add to __RemoteDebug_, an simple software debugger,
 to see/change global variables, to add watch for these variables,
 or call a function, in runtime, using serial monitor.
 
-[RemoteDebug library](https://github.com/JoaoLopesF/RemoteDebug)
-[RemoteDebugger library](https://github.com/JoaoLopesF/RemoteDebugger)
+* [RemoteDebug library](https://github.com/JoaoLopesF/RemoteDebug)
+* [RemoteDebugger library](https://github.com/JoaoLopesF/RemoteDebugger)
 
 This converter is to help migrate your codes to use __RemoteDebugger__ library
 
