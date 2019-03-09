@@ -2,7 +2,7 @@
 An converter to add debugger codes (RemoteDebugger)  to a Arduino projects that uses RemoteDebug library
 
 <a href="#releases">![build badge](https://img.shields.io/badge/version-v0.1.0-blue.svg)</a> 
-<a href="https://github.com/JoaoLopesF/RemoteDebugConverter/blob/master/LICENSE.txt">
+<a href="https://github.com/JoaoLopesF/RemoteDebuggerConverter/blob/master/LICENSE.txt">
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)</a>
 
 This Java program is a converter, to help to migrate your Arduino codes, that uses the __RemoteDebug__ library,
@@ -19,10 +19,10 @@ to add __RemoteDebugger__ codes, as initializations and add codes to debugger, a
 
 ## About
 
-__RemoteDebug__ is an ibrary for Arduino to debug devices over WiFi (telnet) with Print commands like Serial Monitor.
+__RemoteDebug__ is a library for Arduino to debug devices over WiFi (telnet) with Print commands like Serial Monitor.
 
 __RemoteDebugger__ is an addon to __RemoteDebug__ library.
-It add to __RemoteDebug_, an simple software debugger,
+It add to __RemoteDebug_, a simple software debugger,
 to see/change global variables, to add watch for these variables,
 or call a function, in runtime, using serial monitor.
 
